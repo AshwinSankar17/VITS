@@ -1,0 +1,9 @@
+__pycache__/
+english-ckpt/
+filelists/
+logs/
+manifests/
+misc/
+oov-vits/
+vits-ft-rasa/
+wandb/
